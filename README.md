@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouhailAinous
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning front end developemnet
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning front end developmnet
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me souhailainouss55@gmail.com
 - 😄 Pronouns: just souhail
